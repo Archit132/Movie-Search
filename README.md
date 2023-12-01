@@ -18,7 +18,7 @@ Search and create your favorite List with MovieSearch
 
 ## Built With
 
-CSS in JS
-Firebase for authentication
-React
+-CSS in JS
+-Firebase for authentication
+-React
 
